@@ -1,4 +1,4 @@
-# Jaws-CMS-RCE
+# Jaws-CMS-RCE CVE-2020-35656
 Authenticated RCE JAWS CMS &lt;=1.8.0
 
 
