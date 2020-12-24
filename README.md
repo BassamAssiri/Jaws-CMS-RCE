@@ -27,5 +27,5 @@ root
 
 Bassam Assiri https://twitter.com/BassamAssiri  https://www.linkedin.com/in/bassam-assiri-9418401ab/
 
-special thanks to:
-abdallah fouad https://twitter.com/AbdallafouadX https://www.linkedin.com/in/abdallah-fouad/
+# Special Thanks to:
+Abdallah Fouad https://twitter.com/AbdallafouadX https://www.linkedin.com/in/abdallah-fouad/
